@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    width: 100%;
+    max-width: 1300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+.footer-container{
+    display: flex;
+    gap: 60px;
+    margin-top: 1.9em;
+}
+.footer-list{
+    display: flex;
+    align-items: center;
+    margin-left: 201px;
+    gap: 60px;
+}
+.home{
+    color: rgba(54, 133, 251, 1);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.footer-list-navbar{
+    color: rgba(0, 34, 72, 1);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.footer-btn-1{
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: none;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(54, 133, 251, 1);
+    margin-left: 246px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    cursor: pointer;
+}
+.footer-2-img{
+    width: 569px;
+    height: 597px;
+}
+.footer-h4-1{
+    margin-top: 85px;
+    margin-left: 78px;
+    width: 77px;
+    height: 18px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    color: rgba(0, 179, 160, 1);
+}
+.footer-h2-1{
+    width: 523px;
+    height: 152px;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 72px;
+    color: rgba(0, 34, 72, 1);
+    font-family: "Ubuntu";
+}
+.footer-p-1{
+    width: 513px;
+    height: 74px;
+    font-family: "Ubuntu";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: rgba(105, 118, 135, 1);
+}
+.footer-btn-2{
+    margin-top: 49.82px;
+    padding-left: 47px;
+    padding-right: 47px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(54, 133, 251, 1);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.footer-2{
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 85px;
+    background-color: rgba(252, 252, 252, 1);
+    justify-content: space-between;
+}
+.footer-2-h4{
+    color: rgba(105, 118, 135, 1);
+}
+.footer-2-div{
+    width: 210px;
+    height: 143.84px;
+    background-color: rgba(54, 133, 251, 1);
+    border-radius: 0px, 30px, 30px, 0px;
+}
